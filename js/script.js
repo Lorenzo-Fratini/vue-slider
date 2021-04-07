@@ -56,9 +56,8 @@ function init() {
       this.timeNext()
 
     }
+    
   });
-
-   
 
 }
 
