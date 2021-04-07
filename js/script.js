@@ -53,10 +53,10 @@ function init() {
 
     mounted () {
 
-      this.timeNext()
+      this.timeNext();
 
     }
-    
+
   });
 
 }
